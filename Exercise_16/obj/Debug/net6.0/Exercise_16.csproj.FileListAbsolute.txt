@@ -1,0 +1,15 @@
+D:\1-Programming\HappyArray_HappyMaryna\C-Sharp Exercises\C-Sharp Exercises\Exercise_16\obj\Debug\net6.0\Exercise_16.csproj.AssemblyReference.cache
+D:\1-Programming\HappyArray_HappyMaryna\C-Sharp Exercises\C-Sharp Exercises\Exercise_16\obj\Debug\net6.0\Exercise_16.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\HappyArray_HappyMaryna\C-Sharp Exercises\C-Sharp Exercises\Exercise_16\obj\Debug\net6.0\Exercise_16.AssemblyInfoInputs.cache
+D:\1-Programming\HappyArray_HappyMaryna\C-Sharp Exercises\C-Sharp Exercises\Exercise_16\obj\Debug\net6.0\Exercise_16.AssemblyInfo.cs
+D:\1-Programming\HappyArray_HappyMaryna\C-Sharp Exercises\C-Sharp Exercises\Exercise_16\obj\Debug\net6.0\Exercise_16.csproj.CoreCompileInputs.cache
+D:\1-Programming\HappyArray_HappyMaryna\C-Sharp Exercises\C-Sharp Exercises\Exercise_16\bin\Debug\net6.0\Exercise_16.exe
+D:\1-Programming\HappyArray_HappyMaryna\C-Sharp Exercises\C-Sharp Exercises\Exercise_16\bin\Debug\net6.0\Exercise_16.deps.json
+D:\1-Programming\HappyArray_HappyMaryna\C-Sharp Exercises\C-Sharp Exercises\Exercise_16\bin\Debug\net6.0\Exercise_16.runtimeconfig.json
+D:\1-Programming\HappyArray_HappyMaryna\C-Sharp Exercises\C-Sharp Exercises\Exercise_16\bin\Debug\net6.0\Exercise_16.dll
+D:\1-Programming\HappyArray_HappyMaryna\C-Sharp Exercises\C-Sharp Exercises\Exercise_16\bin\Debug\net6.0\Exercise_16.pdb
+D:\1-Programming\HappyArray_HappyMaryna\C-Sharp Exercises\C-Sharp Exercises\Exercise_16\obj\Debug\net6.0\Exercise_16.dll
+D:\1-Programming\HappyArray_HappyMaryna\C-Sharp Exercises\C-Sharp Exercises\Exercise_16\obj\Debug\net6.0\refint\Exercise_16.dll
+D:\1-Programming\HappyArray_HappyMaryna\C-Sharp Exercises\C-Sharp Exercises\Exercise_16\obj\Debug\net6.0\Exercise_16.pdb
+D:\1-Programming\HappyArray_HappyMaryna\C-Sharp Exercises\C-Sharp Exercises\Exercise_16\obj\Debug\net6.0\Exercise_16.genruntimeconfig.cache
+D:\1-Programming\HappyArray_HappyMaryna\C-Sharp Exercises\C-Sharp Exercises\Exercise_16\obj\Debug\net6.0\ref\Exercise_16.dll
