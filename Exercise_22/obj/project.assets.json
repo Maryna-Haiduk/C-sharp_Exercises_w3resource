@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Марiна\\.nuget\\packages\\": {}
+    "C:\\Users\\Марiна\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\1-Programming\\HappyArray_HappyMaryna\\C-Sharp Exercises\\C-Sharp Exercises\\Exercise_22\\Exercise_22.csproj",
+      "projectUniqueName": "D:\\1-Programming\\HappyArray_HappyMaryna\\C-Sharp Exercises\\C-Sharp Exercises\\C-sharp_Exercises_w3resource\\Exercise_22\\Exercise_22.csproj",
       "projectName": "Exercise_22",
-      "projectPath": "D:\\1-Programming\\HappyArray_HappyMaryna\\C-Sharp Exercises\\C-Sharp Exercises\\Exercise_22\\Exercise_22.csproj",
+      "projectPath": "D:\\1-Programming\\HappyArray_HappyMaryna\\C-Sharp Exercises\\C-Sharp Exercises\\C-sharp_Exercises_w3resource\\Exercise_22\\Exercise_22.csproj",
       "packagesPath": "C:\\Users\\Марiна\\.nuget\\packages\\",
-      "outputPath": "D:\\1-Programming\\HappyArray_HappyMaryna\\C-Sharp Exercises\\C-Sharp Exercises\\Exercise_22\\obj\\",
+      "outputPath": "D:\\1-Programming\\HappyArray_HappyMaryna\\C-Sharp Exercises\\C-Sharp Exercises\\C-sharp_Exercises_w3resource\\Exercise_22\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Марiна\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

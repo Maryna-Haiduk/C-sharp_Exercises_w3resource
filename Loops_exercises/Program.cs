@@ -8,12 +8,12 @@ using System.Threading.Tasks;
 
 namespace for13
 {
-    /* 
-     * Write a program in C# Sharp to make such a pattern like right angle triangle 
-    with a number which will repeat a number in a row. Go to the editor
-     */
-    public class Exercise15
+    
+    public class Exercise_11
     {
+     /* 11. Write a program in C# Sharp to make such a pattern like right angle triangle 
+        with a number which will repeat a number in a row. Go to the editor
+     */
         public static void Main(string[] arg)
 
         {
@@ -64,16 +64,6 @@ namespace for13
         }
         */
 
-
-
-
-
-
-
-
-
-
-
         /*9. Write a program in C# Sharp to display the pattern like right angle triangle using an asterisk. 
         *
         **
@@ -104,16 +94,6 @@ namespace for13
 
 
 
-
-
-
-
-
-
-
-
-
-
         // 7. Write a program in C# Sharp to display the multiplication table vertically from 1 to n.
         /*public static void Main(string[] args)
         {
@@ -136,10 +116,6 @@ namespace for13
 
         */
 
-
-
-
-
         // 6. Write a program in C# Sharp to display the multiplication table of a given integer.
         /*  public static void Main(string[] args)
          {
@@ -154,9 +130,6 @@ namespace for13
              }
          }
         */
-
-
-
 
 
 

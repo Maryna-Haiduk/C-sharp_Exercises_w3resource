@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1-Programming\\HappyArray_HappyMaryna\\C-Sharp Exercises\\C-Sharp Exercises\\Exercise_10\\Exercise_10.csproj": {}
+    "D:\\1-Programming\\HappyArray_HappyMaryna\\C-Sharp Exercises\\C-Sharp Exercises\\C-sharp_Exercises_w3resource\\Exercise_10\\Exercise_10.csproj": {}
   },
   "projects": {
-    "D:\\1-Programming\\HappyArray_HappyMaryna\\C-Sharp Exercises\\C-Sharp Exercises\\Exercise_10\\Exercise_10.csproj": {
+    "D:\\1-Programming\\HappyArray_HappyMaryna\\C-Sharp Exercises\\C-Sharp Exercises\\C-sharp_Exercises_w3resource\\Exercise_10\\Exercise_10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1-Programming\\HappyArray_HappyMaryna\\C-Sharp Exercises\\C-Sharp Exercises\\Exercise_10\\Exercise_10.csproj",
+        "projectUniqueName": "D:\\1-Programming\\HappyArray_HappyMaryna\\C-Sharp Exercises\\C-Sharp Exercises\\C-sharp_Exercises_w3resource\\Exercise_10\\Exercise_10.csproj",
         "projectName": "Exercise_10",
-        "projectPath": "D:\\1-Programming\\HappyArray_HappyMaryna\\C-Sharp Exercises\\C-Sharp Exercises\\Exercise_10\\Exercise_10.csproj",
+        "projectPath": "D:\\1-Programming\\HappyArray_HappyMaryna\\C-Sharp Exercises\\C-Sharp Exercises\\C-sharp_Exercises_w3resource\\Exercise_10\\Exercise_10.csproj",
         "packagesPath": "C:\\Users\\Марiна\\.nuget\\packages\\",
-        "outputPath": "D:\\1-Programming\\HappyArray_HappyMaryna\\C-Sharp Exercises\\C-Sharp Exercises\\Exercise_10\\obj\\",
+        "outputPath": "D:\\1-Programming\\HappyArray_HappyMaryna\\C-Sharp Exercises\\C-Sharp Exercises\\C-sharp_Exercises_w3resource\\Exercise_10\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Марiна\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
