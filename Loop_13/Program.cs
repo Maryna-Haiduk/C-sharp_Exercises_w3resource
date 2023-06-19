@@ -9,51 +9,15 @@ using System.Threading.Tasks;
 namespace for13
 {
     /* 
-     * 13
+     * Write a program in C# Sharp to make such a pattern like right angle triangle 
+    with a number which will repeat a number in a row. Go to the editor
      */
     public class Exercise15
     {
         public static void Main(string[] arg)
 
         {
-            string h = "%";
-            string g = "#";
-            int k = 10;
-
-            for (int i = 1; i <= 11; i++)
-            {
-                Console.Write(h);
-                
-                for (int j = i; j <= 10; j++)
-                {
-                    Console.Write(g);
-                }
-                Console.WriteLine();
-            }
-            for (int i = 4; i >= 0; i--)
-            {
-                for (int j = 1; j <= i; j++)
-                {
-                    Console.Write(k++);
-                }
-                Console.WriteLine();
-            }
-        }
-
-    }
-}
-
-namespace FORLOOPS
-{
-    /* 
-     * FOR LOOPS
-     */
-
-        //11. Write a program in C# Sharp to make such a pattern like right angle triangle with a number which will repeat a number in a row. Go to the editor
-        /*
-        public static void Main(string[] arg)
-        {
-            Console.Write("Write number: ");
+             Console.Write("Write number: ");
             int.TryParse(Console.ReadLine(), out int inputNum);
             Console.WriteLine();
 
@@ -65,18 +29,14 @@ namespace FORLOOPS
                 }
                 Console.WriteLine();
             }
+             Console.ReadLine();
         }
-        */
+    }
+}
 
-
-
-
-
-
-
-
-
-
+    /* 
+     * FOR LOOPS
+     */
 
         /* 10. Write a program in C# Sharp to display the pattern like right angle triangle with a number. Go to the editor
             The pattern like :
@@ -310,5 +270,3 @@ namespace FORLOOPS
              Console.WriteLine($"The avarage of your numbers is {sum/10}");
          }
         */
-    }
-}
